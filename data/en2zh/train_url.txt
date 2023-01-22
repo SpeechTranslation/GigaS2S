@@ -24,4 +24,3 @@ http://lf3-nlp-opensource.bytetos.com/obj/nlp-opensource/datasets/GigaS2S/EN2ZH/
 http://lf3-nlp-opensource.bytetos.com/obj/nlp-opensource/datasets/GigaS2S/EN2ZH/ZH/train.tar.gz.split.23
 http://lf3-nlp-opensource.bytetos.com/obj/nlp-opensource/datasets/GigaS2S/EN2ZH/ZH/train.tar.gz.split.24
 http://lf3-nlp-opensource.bytetos.com/obj/nlp-opensource/datasets/GigaS2S/EN2ZH/ZH/train.tar.gz.split.25
-http://lf3-nlp-opensource.bytetos.com/obj/nlp-opensource/datasets/GigaS2S/EN2ZH/ZH/train.tar.gz.split.26
